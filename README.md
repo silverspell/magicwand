@@ -1,2 +1,2 @@
-# AirQuality
-Air Quality with Node MCU LoLin &amp; MQ135 &amp; DHT11
+# magicwand
+Esin's Magic Wand... Driving an RGB Led with LM35 &amp; LDR
