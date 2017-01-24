@@ -1,3 +1,16 @@
+/**
+ * 
+ * Connections:
+ * NodeMCU Lolin
+ * DHT 11
+ * MQ135
+ * 
+ * DHT Data: D2
+ * MQ135 Data: A0
+ * 
+ * 
+ */
+
 #include <ArduinoJson.h>
 #include <ESP8266WiFi.h>
 #include "DHT.h"
